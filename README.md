@@ -7,7 +7,7 @@
 | # | Alumno                           | Clave única |
 |---|-----------------------------------|-------------|
 | 1 | Angel Rafael Ortega Ramírez | 123972      |
-| 2 | Elizabeth Rodriguez         | CU      |
+| 2 | Carlos Tabares         | CU      |
 
 
 
